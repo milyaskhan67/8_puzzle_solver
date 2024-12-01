@@ -1,10 +1,10 @@
-8 Puzzle Solver Using A* Algorithm  
+8 Puzzle Solver Using A* Algorithm with GUI  
 
-This Python project implements an 8 Puzzle Solver using the A* (A-star) search algorithm. The program finds the optimal solution to arrange tiles in order, starting from a given initial state. It uses heuristic functions like **Manhattan Distance** to guide the search efficiently.  
+This Python project implements an 8 Puzzle Solver with a GUI built using Tkinter. The program utilizes the A* (A-star) search algorithm with Manhattan Distance heuristic to find the optimal solution for arranging tiles in order.  
 
 Features:  
-- Customizable initial and goal states.  
-- Clear step-by-step visualization of moves.  
-- Compact, easy-to-read codebase.  
+- Interactive GUI for inputting initial and goal states.  
+- Real-time visualization of steps and solution process.  
+- Intuitive and user-friendly interface.  
 
-Perfect for learning search algorithms and exploring AI problem-solving techniques!
+A great way to explore AI algorithms with a visual and interactive experience!
